@@ -1,4 +1,4 @@
-一些按钮集合 : https://pub.dev/packages/st_widget
+一些按钮集合 : https://pub.dev/packages/st_widgets
 
 用法：
 在`pubspec.yaml`中引入
