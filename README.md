@@ -133,7 +133,7 @@ class _JellyButtonPageState extends State<JellyButtonPage> {
 }
          
   ```
-![image](https://github.com/pheromone/st_widget/blob/main/jellyButton.gif) <br/>
+![image](https://github.com/pheromone/st_widgets/blob/main/jellyButton.gif) <br/>
 
 2、验证码输入框 。
 ```
@@ -198,6 +198,6 @@ class _CodeInputPageState extends State<CodeInputPage> {
 }
 
 ```
-![image](https://github.com/pheromone/st_widget/blob/main/codeInput.gif) <br/>
+![image](https://github.com/pheromone/st_widgets/blob/main/codeInput.gif) <br/>
 
 。。。。。。
