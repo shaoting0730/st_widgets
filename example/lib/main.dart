@@ -1,4 +1,5 @@
 import 'package:example/packages/code_input.dart';
+import 'package:example/packages/dotted_line.dart';
 import 'package:example/packages/jelly_button.dart';
 import 'package:flutter/material.dart';
 
@@ -59,6 +60,17 @@ class _MyHomePageState extends State<MyHomePage> {
               );
             },
             child: const Text('Code输入框'),
+          ),
+          InkWell(
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (BuildContext context) => const DottedLineWidget(),
+                ),
+              );
+            },
+            child: const Text('虚线'),
           ),
         ],
       ),

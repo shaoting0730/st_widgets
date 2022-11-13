@@ -1,6 +1,6 @@
 name: st_widgets
 description: 一些组件
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/pheromone/st_widgets
 
 environment:

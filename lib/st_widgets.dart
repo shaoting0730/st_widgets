@@ -5,3 +5,6 @@ export 'package:st_widgets/jelly_button.dart';
 
 /// code输入框
 export 'package:st_widgets/code_input.dart';
+
+/// 虚线
+export 'package:st_widgets/dotted_line.dart';
