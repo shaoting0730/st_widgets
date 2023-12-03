@@ -1,7 +1,7 @@
 name: st_widgets
 description: 一些组件
 version: 0.0.2
-homepage: https://github.com/pheromone/st_widgets
+homepage: https://github.com/shaoting0730/st_widgets
 
 environment:
   sdk: '>=2.18.2 <3.0.0'

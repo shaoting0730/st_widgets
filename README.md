@@ -133,7 +133,7 @@ class _JellyButtonPageState extends State<JellyButtonPage> {
 }
          
   ```
-![image](https://github.com/pheromone/st_widgets/blob/main/jellyButton.gif) <br/>
+![image](https://github.com/shaoting0730/st_widgets/blob/main/jellyButton.gif) <br/>
 
 
 2、验证码输入框 。
@@ -200,7 +200,7 @@ class _CodeInputPageState extends State<CodeInputPage> {
 }
 
 ```
-![image](https://github.com/pheromone/st_widgets/blob/main/codeInput.gif) <br/>
+![image](https://github.com/shaoting0730/st_widgets/blob/main/codeInput.gif) <br/>
 3、虚线框 <br/>
 
 
@@ -267,5 +267,5 @@ class _DottedLineWidgetState extends State<DottedLineWidget> {
 
   ```
 
-![image](https://github.com/pheromone/st_widgets/blob/main/dotted_line.jpg) <br/>
+![image](https://github.com/shaoting0730/st_widgets/blob/main/dotted_line.jpg) <br/>
 。。。。。。
